@@ -1,0 +1,13 @@
+node_modules
+dist
+out
+.vite
+.env
+.env.*
+.DS_Store
+.vscode
+.idea
+*.swp
+npm-debug.log*
+yarn-*.log*
+pnpm-debug.log*
